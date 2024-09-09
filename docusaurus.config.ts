@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://mbc-net.github.io",
+  url: "https://baquan1708.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/mbc-cqrs-serverless-doc/",
+  baseUrl: "/mbc-cqrs-serverless/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "mbc-net", // Usually your GitHub org/user name.
-  projectName: "mbc-cqrs-serverless-doc", // Usually your repo name.
+  projectName: "mbc-cqrs-serverless", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -37,7 +37,8 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/mbc-net/mbc-cqrs-serverless-doc/edit/master",
+          editUrl:
+            "https://github.com/mbc-net/mbc-cqrs-serverless-doc/edit/master",
         },
         blog: false,
         theme: {
